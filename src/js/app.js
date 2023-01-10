@@ -1,5 +1,5 @@
-import "../css/style.css";
 import "../css/fonts.css";
+import "../css/style.css";
 import NotesAPI from "./notesAPI.js";
 import NotesView from "./notesView.js";
 
