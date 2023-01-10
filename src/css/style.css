@@ -51,10 +51,11 @@ textarea {
 /* Main */
 html {
     scroll-behavior: smooth;
+    height: 100%;
 }
 
 body {
-    height: 100vh;
+    height: 100%;
     min-height: 630px;
     color: var(--main-black);
     background-color: var(--body-color);
